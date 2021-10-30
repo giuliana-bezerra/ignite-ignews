@@ -55,7 +55,7 @@ Nessa aplicação foram explorados vários conceitos importantes:
 - Ouça os eventos do stripe no webhook com `stripe listen --forward-to localhost:3000/api/webhooks --api-key <sua api key>`
 - Inicie o servidor com `yarn dev`
 
-Agora você pode acessar [`localhost:8080`](http://localhost:3000) do seu navegador.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 ## 📄 Licença
 
