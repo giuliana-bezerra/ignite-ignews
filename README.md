@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O ignews é uma aplicação "jamstack" que permite assinar um canal de notícias para ler artigos técnicos.
+O ignews é uma aplicação "jamstack" que permite assinar um canal de notícias para ler artigos técnicos. Projeto elaborado durante o Ignite de ReactJS.
 
 ## 💡 Solução
 
